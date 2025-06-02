@@ -1,10 +1,10 @@
 [build]
-  command = "pnpm build"
+  command = "npm install -g pnpm && pnpm install && pnpm build"
   publish = "out"
 
 [build.environment]
   NODE_VERSION = "18.17.0"
-  NPM_FLAGS = "--version"
+  NPM_VERSION = "10.2.4"
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
