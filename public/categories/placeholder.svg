@@ -1,0 +1,5 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#f1f3f6"/>
+  <circle cx="32" cy="32" r="24" fill="#e2e8f0"/>
+  <text x="50%" y="50%" font-family="Arial" font-size="10" fill="#64748b" text-anchor="middle" dy=".3em">Category</text>
+</svg> 
